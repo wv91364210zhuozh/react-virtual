@@ -41,7 +41,7 @@
     "scripts"
   ],
   "dependencies": {
-    "@reach/observe-rect": "^1.1.0",
+    "@reach/observe-rect": "^1.2.0",
     "ts-toolbelt": "^6.4.2"
   },
   "peerDependencies": {
